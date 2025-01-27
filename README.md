@@ -1,6 +1,6 @@
-# myapp
+# App Layout
 
-A new Flutter project.
+Projeto realizado no Flutter, ultilizando a linguagem dart.
 
 ## Getting Started
 
